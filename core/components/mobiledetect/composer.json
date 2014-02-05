@@ -1,0 +1,19 @@
+{
+	"name": "Mobile Detect Plugin",
+	"description": "Implementation of the MobileDetect library by Serban Ghita and Victor Stanciu (http://mobiledetect.net)for MODX Revolution. ",
+	"keywords": ["MODX","Mobile Detect"],
+	"license": "MIT",
+    "require": {
+        "mobiledetect/mobiledetectlib": "dev-master"
+    },
+    "authors": [
+            {
+                "name":         "Everett Griffiths",
+                "email":        "everett@craftsmancoding.com",
+                "homepage":     "http://craftsmancoding.com",
+                "role":         "Developer"
+            }
+        ],
+	"build_attributes":{},
+	"something_random":{}    
+}
